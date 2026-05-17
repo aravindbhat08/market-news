@@ -1,0 +1,16 @@
+{
+  "short_name": "MarketOS",
+  "name": "MarketOS Quantitative Terminal",
+  "description": "Real-time quantitative trading analysis terminal.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2533/2533515.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#060d18",
+  "background_color": "#060d18"
+}
